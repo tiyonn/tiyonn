@@ -4,4 +4,4 @@
 
 - [Discord](https://discord.com/users/853181363552649237)
 - [Instagram](https://instagram.com/tiyon.js)
-- [Mail to me!](tiyondev@gmail.com)
+- [Mail to me!](mailto:tiyondev@gmail.com)
